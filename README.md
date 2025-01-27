@@ -41,3 +41,14 @@ Review: Continuously update and refine based on new data.
 ## Dashboard 
 
 ![Power BI Airbnb SS](https://github.com/user-attachments/assets/55395ca5-94ce-44d4-bc64-dbc57da86b31)
+
+## Project insight 
+Revenue & Occupancy: High-performing properties and seasons generate most of the revenue; low-occupancy periods indicate optimization opportunities.
+
+Guest Satisfaction: Reviews highlight key strengths and areas for improvement in guest experience.
+
+Top Performers: Certain property types and locations consistently outperform others, offering models for scaling.
+
+
+## Conclusion 
+Optimizing pricing, marketing, and guest experience based on trends and reviews can maximize revenue and occupancy. Regular monitoring ensures continuous improvement and alignment with market demands.
