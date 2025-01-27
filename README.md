@@ -4,3 +4,5 @@ This Airbnb dashboard provides key insights into property performance and user a
 
 ## Dataset View 
 - <a href="https://github.com/Evanjalinjoseph/Power-BI-Dashboard/blob/main/Airbnb%20copy%20file.csv">Dataset</a>
+- <a href="https://github.com/Evanjalinjoseph/Power-BI-Dashboard/blob/main/Airbnb%234.csv">Dataset</a>
+- <a href="https://github.com/Evanjalinjoseph/Power-BI-Dashboard/blob/main/Airbnb%238.csv">Dataset</a>
