@@ -21,3 +21,4 @@ Which listings and locations generate the highest bookings and revenue?
 Which properties or time periods need pricing or marketing adjustments to improve performance?
 
 
+
