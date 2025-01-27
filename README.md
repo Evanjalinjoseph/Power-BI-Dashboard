@@ -38,6 +38,6 @@ Insights & Reporting: Present actionable insights to improve performance.
 
 Review: Continuously update and refine based on new data.
 
-## DashBoard 
+## Dashboard 
 
 ![Power BI Airbnb SS](https://github.com/user-attachments/assets/55395ca5-94ce-44d4-bc64-dbc57da86b31)
