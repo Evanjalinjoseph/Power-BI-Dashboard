@@ -22,3 +22,22 @@ Which properties or time periods need pricing or marketing adjustments to improv
 
 - Dashboard Interaction <a href="https://github.com/Evanjalinjoseph/Power-BI-Dashboard/blob/main/Power%20BI%20Airbnb%20SS.jpg">View Dashboard</a>
 
+## Process 
+
+Data Collection: Gather Airbnb data (bookings, revenue, reviews, etc.)
+
+Data Cleaning: Preprocess and structure data for analysis.
+
+Modeling: Build relationships between tables and define metrics.
+
+Visualization: Create interactive dashboards for key KPIs.
+
+Analysis: Identify trends, top performers, and optimization opportunities.
+
+Insights & Reporting: Present actionable insights to improve performance.
+
+Review: Continuously update and refine based on new data.
+
+## DashBoard 
+
+![Power BI Airbnb SS](https://github.com/user-attachments/assets/55395ca5-94ce-44d4-bc64-dbc57da86b31)
